@@ -3,11 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-    <android.media.tv.TvView
-        android:id="@+id/tv"
+    <TextView
+        android:id="@+id/tvv"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        
-    </android.media.tv.TvView>
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="test"/>
 
 </LinearLayout>
