@@ -1,1 +1,9 @@
-这个项目是用来测试本地是否可以通过Github客户端把项目提交项目到github上,并测试两个公钥对应不同的github账号,是否能够成功
+# AddressChoseDialog
+仿京东地址选择器,具备回显功能
+</br>
+ 网络请求框架:采用volley
+ </br>
+ 效果图测试
+ </br>
+ ![效果图测试](https://github.com/wolfking0608/AddressChoseDialog/blob/master/app/src/main/res/drawable-hdpi/test_shoppic.png)
+ 
